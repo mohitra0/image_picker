@@ -1,8 +1,11 @@
 # imagepicker
 
-A new Flutter application.
+Image Picker Similar to Instagram
 
 ## Getting Started
+  <div class="row">
+    <img src="https://user-images.githubusercontent.com/69755039/147206688-a6a609ae-6aa5-4047-b015-eb9253e30217.gif" width="1080" height="850">
+   </div>
 
 This project is a starting point for a Flutter application.
 
